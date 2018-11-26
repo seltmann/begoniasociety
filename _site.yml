@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Begonia Society"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Music for Science and Civilization"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -22,7 +22,7 @@ navbar:
       href: mailto:moon@begoniasociety.org                  # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://seltmann.github.io/begoniasociety/       # CHANGE HERE 
+      href: https://github.com/seltmann       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
