@@ -1,7 +1,7 @@
-name: "Begonia Society"                                # CHANGE HERE 
+name: "Music for Science and Civilization"                    
 output_dir: "."
 navbar:
-  title: "Music for Science and Civilization"                             # CHANGE HERE 
+  title: "Begonia Society"                          
   type: inverse
   left:
     - text: "Home"
@@ -15,14 +15,20 @@ navbar:
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: http://news.begoniasociety.org/ 
+    - text: "Music"
+      icon: fa-music
+      href: music.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:moon@begoniasociety.org                  # CHANGE HERE 
+      href: mailto:moon@begoniasociety.org          
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/seltmann       # CHANGE HERE 
+      href: https://github.com/seltmann
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/irene_moon
 output:
   html_document:
     theme: cosmo
