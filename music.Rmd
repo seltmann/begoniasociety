@@ -10,7 +10,7 @@ This is not intended to be informative.
 
 ##Recordings from the Begonia Society
 
-```{r, , echo=FALSE, message=FALSE, warning=FALSE}
+```{r,echo=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
 recordings = read.delim(file="data/Recording History - Sheet1.tsv", header = TRUE, sep = "\t")
 n <- recordings %>% 
