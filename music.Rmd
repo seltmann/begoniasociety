@@ -22,18 +22,12 @@ knitr::kable(recordings[,c(1:2,10:12)], caption = "Begonia Society Recordings", 
 
 ##Recordings from the Begonia Society
 
-```{r, , echo=FALSE}
-n = 300
-set.seed(123)
-par(mar = c(4, 4, 0.1, 0.1))
-plot(rnorm(n), rnorm(n), pch = 21, cex = 5 * runif(n), col = "white", bg = "gray")
+```{r, , echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+n <- recordings %>% 
+  group_by(year) %>%
+  summarise(recording_summ = length(unique(title)))
+          
+plot(n$year, n$year, pch = 21, xlab = '', ylab = '', , axes = FALSE, main = "Number of recordings by Irene Moon and the Begonia Society",sub = "by year", cex = n$recording_summ, col = "white", bg = "orange")
+axis(1)
 ```
-
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTEWEjpYw-S4GY-_FQp-0NiKB0zR3nT5Un5QPOm2V8Hswqpf_16Bm1OaRHsLH1SVet4LcbA-V4e64l1/pub?output=tsv
