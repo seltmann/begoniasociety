@@ -2,11 +2,6 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+<a href="http://codex.begoniasociety.org" class="download" title="Download CV and view in Google Documents">Download CV</a>
 
-<iFrame src ="http://irenemoon.blogspot.com">
-
-
-## Header
-
-Say more about your CV here.
+<iframe width="1000" height="1000" src="https://docs.google.com/document/d/1DpYPQqp3g7B-KNrT06vOE2V8MyOQ6djRMs1b8PgWpEY/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>

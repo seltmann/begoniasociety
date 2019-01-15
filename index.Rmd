@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Begonia Society: Entomology, Information and Art"
 ---
 
-You're up and running!
+Begonia Society research includes biodiversity informatics, or data science research of digitized natural history collection records, insect biodiversity, and music and art practice in a scientific context.

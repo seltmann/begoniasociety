@@ -7,6 +7,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Research"
+      icon: fa-user 
+      href: research.html
     - text: "About"
       icon: fa-user 
       href: about.html
@@ -21,7 +24,7 @@ navbar:
       href: music.html
   right:
     - text: "Contact me"
-      icon: fa-envelope-o
+      icon: fa-bug-o
       href: mailto:moon@begoniasociety.org          
     - text: "GitHub"
       icon: fa-github
