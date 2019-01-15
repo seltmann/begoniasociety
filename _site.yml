@@ -1,38 +1,41 @@
-name: "Music for Science and Civilization"                    
-output_dir: "."
+name: Music for Science and Civilization
+output_dir: '.'
 navbar:
-  title: "Begonia Society"                          
+  title: Begonia Society
   type: inverse
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "Research"
-      icon: fa-user 
-      href: research.html
-    - text: "About"
-      icon: fa-moon-o 
-      href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: http://news.begoniasociety.org/ 
-    - text: "Music"
-      icon: fa-music
-      href: music.html
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Research
+    icon: fa-user
+    href: research.html
+  - text: About
+    icon: fa-moon-o
+    href: about.html
+  - text: CV
+    icon: fa-file-pdf-o
+    href: cv.html
+  - text: Blog
+    icon: fa-rss
+    href: http://news.begoniasociety.org/
+  - text: Music
+    icon: fa-music
+    href: music.html
   right:
-    - text: "Contact me"
-      icon: fa-bug-o
-      href: mailto:moon@begoniasociety.org          
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/seltmann
-    - text: "Twitter"
-      icon: fa-twitter
-      href: https://twitter.com/irene_moon
+  - text: Contact me
+    icon: fa-bug
+    href: mailto:moon@begoniasociety.org
+  - text: GitHub
+    icon: fa-github
+    href: https://github.com/seltmann
+  - text: Twitter
+    icon: fa-twitter
+    href: https://twitter.com/irene_moon
 output:
   html_document:
     theme: cosmo
     highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+
