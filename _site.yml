@@ -11,7 +11,7 @@ navbar:
       icon: fa-user 
       href: research.html
     - text: "About"
-      icon: fa-user 
+      icon: fa-moon-o 
       href: about.html
     - text: "CV"
       icon: fa-file-pdf-o
