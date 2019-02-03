@@ -1,5 +1,8 @@
+
 ---
 title: "Begonia Society: Entomology, Information and Art"
 ---
 
-Begonia Society research includes biodiversity informatics, or data science research of digitized natural history collection records, insect biodiversity, and music and art practice in a scientific context.
+***Dr. Katja Seltmann*** is the Katherine Esau Director of the Cheadle Center for Biodiversity and Ecological Restoration (CCBER), University of California, Santa Barbara. At CCBER I direct three main research and programmatic areas: natural history collections, environmental education, and ecological restoration. 
+
+My own research agenda is in the field of biodiversity informatics, or data science research of digitized natural history collection records, insect biodiversity, and expanding music and art practice in a scientific context.

@@ -30,9 +30,7 @@ navbar:
   - text: GitHub
     icon: fa-github
     href: https://github.com/seltmann
-  - text: Twitter
-    icon: fa-twitter
-    href: https://twitter.com/irene_moon
+
 output:
   html_document:
     theme: cosmo
