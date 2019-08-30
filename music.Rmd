@@ -2,13 +2,8 @@
 title: "Music from the Begonia Society"
 ---
 
-```
-This is not intended to be informative.
-```
 
---------
-
-##Recordings from the Begonia Society
+## Recordings from Irene Moon and the Begonia Society
 
 ```{r,echo=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
@@ -22,12 +17,6 @@ axis(1)
 ```
 
 --------
-
-The Begonia Society's rudimentary beginning is in the early 1990s at Field Station A, located in the lovely town of Athens, Georgia. The goal of the Society since its inception has been two fold. First members, sometimes willing but often “elected,” are encouraged to promote the merging of the laboratory aesthetic into popular culture. This goal supports the primary belief that society would benefit from the understanding of science through the senses. The secondary goal involves the haphazard incorperation of the aesthetic of the Begonia Society into the scientific realm.
-
-Scientifically speaking, the Society works within the realm of the natural sciences - biology, environmental sciences, entomology and evolution. Science is a process, one that is fundamentally creative, yet follows certain rules around testing hypothesis and observation. Recent work with Scientifically Speaking with Irene Moon's continuing Lectography explores communication of scientific thought, idiosyncrasies and stereotypes of scientist/lecturers and the assimilation of scientific advancement into our daily experience. This is primarily expressed through a series of factual lectures with slides (most recently powerpoint), handouts, demonstrations and live specimens. Pop quizzes and original music accompanies Irene Moon.
-
-Irene Moon, the Begonia Society's public persona, was created as a synthesis of a prescription addicted high school algebra teacher and one of the Lennon sisters in the early days of the Lawrence Welk Show. She is quite strict, verbose, sharp witted, well articulated, and always dressed to perfection. Under the name Irene Moon we have proceeded in creating multimedia environments, organizations, happenings, and music. "For your pleasure or perhaps only just for mine." 
 
 ```{r, echo=FALSE, results='asis'}
 knitr::kable(recordings[,c(1:2,10:12)], caption = "Begonia Society Recordings", floating.environment="sidewaystable")
