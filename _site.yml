@@ -12,7 +12,7 @@ navbar:
     href: research.html
   - text: Art
     icon: fa-moon-o
-    href: moon.html
+    href: art.html
   - text: Music
     icon: fa-music
     href: music.html
