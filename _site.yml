@@ -1,4 +1,4 @@
-name: Music for Science and Civilization
+name: Media Arts and Entomology
 output_dir: '.'
 navbar:
   title: Begonia Society
@@ -10,7 +10,7 @@ navbar:
   - text: Research
     icon: fa-bug
     href: research.html
-  - text: moon
+  - text: Art
     icon: fa-moon-o
     href: moon.html
   - text: Music
@@ -22,7 +22,6 @@ navbar:
   - text: Blog
     icon: fa-rss
     href: http://news.begoniasociety.org/
-
   right:
   - text: Contact me
     icon: fa-envelope
@@ -30,7 +29,6 @@ navbar:
   - text: GitHub
     icon: fa-github
     href: https://github.com/seltmann
-
 output:
   html_document:
     theme: cosmo
