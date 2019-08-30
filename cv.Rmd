@@ -1,5 +1,6 @@
 ---
-title: "CV"
+title: "Detailed CV"
+output: html_document
 ---
 
 <a href="http://codex.begoniasociety.org" class="download" title="Download CV and view in Google Documents">Download CV</a>
