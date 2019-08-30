@@ -10,9 +10,9 @@ navbar:
   - text: Research
     icon: fa-bug
     href: research.html
-  - text: About
+  - text: moon
     icon: fa-moon-o
-    href: about.html
+    href: moon.html
   - text: Music
     icon: fa-music
     href: music.html
