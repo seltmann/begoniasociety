@@ -9,5 +9,5 @@ output: html_document
 <img align="right" src="https://seltmann.github.io/begoniasociety/images/research-areas.png" width="300">
 ***Dr. Katja Seltmann*** is the Katherine Esau Director of the [Cheadle Center for Biodiversity and Ecological Restoration](https://www.ccber.ucsb.edu), University of California, Santa Barbara. At CCBER I direct three main research and programmatic areas: natural history collections, ecological restoration and environmental education.
 
-My own research agenda is in the field of biodiversity informatics, or data science research of digitized natural history collections, insect biodiversity, and expanding music and art practice in a scientific context. 
+My own research is in the field of biodiversity informatics, or data science research of digitized natural history collections, insect biodiversity, and expanding music and art practice in a scientific context.
 
