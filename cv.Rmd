@@ -1,8 +1,10 @@
 ---
-title: "Detailed CV"
+title: "CV and Publications"
 output: html_document
 ---
 
 <a href="http://codex.begoniasociety.org" class="download" title="Download CV and view in Google Documents">Download CV</a>
+
+<a href="https://scholar.google.com/citations?user=gsh_xxoAAAAJ&hl=en" class="download" title="Link to Google Scholar">Google Scholar</a>
 
 <iframe width="1000" height="1000" src="https://docs.google.com/document/d/1DpYPQqp3g7B-KNrT06vOE2V8MyOQ6djRMs1b8PgWpEY/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
