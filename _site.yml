@@ -16,9 +16,6 @@ navbar:
   - text: Music
     icon: fa-music
     href: music.html
-  - text: CV
-    icon: fa-file-pdf-o
-    href: cv.html
   - text: Blog
     icon: fa-rss
     href: http://news.begoniasociety.org/
@@ -26,9 +23,7 @@ navbar:
   - text: Contact me
     icon: fa-envelope
     href: mailto:moon@begoniasociety.org
-  - text: GitHub
-    icon: fa-github
-    href: https://github.com/seltmann
+
 output:
   html_document:
     theme: cosmo
