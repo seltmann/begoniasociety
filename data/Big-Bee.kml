@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Big-Bee</name>
+	<gx:CascadingStyle kml:id="__managed_style_1B4BDA102A15A987C972">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B54A58BC215A987C972">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_050A8AD92715A987C972">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B4BDA102A15A987C972</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B54A58BC215A987C972</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F534D65C115A987C96D">
+		<name>Cheadle Center for Biodiversity and Ecological Restoration</name>
+		<gx:mid>/m/05p3fvg</gx:mid>
+		<gx:fid>0x80e93f66ba7c25d9:0xc140ebe5db4f1f4d</gx:fid>
+		<LookAt>
+			<longitude>-119.8546349</longitude>
+			<latitude>34.4196052</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>853.2696681944525</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.8546349,34.4196052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09D1BB17B715A988B021">
+		<name>Natural History Museum of Los Angeles County (NHM)</name>
+		<gx:mid>/m/06s5tv</gx:mid>
+		<gx:fid>0x80c2c7fd0511305f:0x6ef89594b9fb2427</gx:fid>
+		<LookAt>
+			<longitude>-118.2887703</longitude>
+			<latitude>34.0169567</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.772288835631</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2887703,34.0169567,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057395AA3815A98982AB">
+		<name>California Academy of Sciences</name>
+		<gx:mid>/m/02hmm4</gx:mid>
+		<gx:fid>0x80858743acfb4421:0x1b8487cfc077cab9</gx:fid>
+		<LookAt>
+			<longitude>-122.4660947</longitude>
+			<latitude>37.76986459999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>814.1945956086849</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.4660947,37.7698646,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA374962C15A98A33DF">
+		<name>University of New Hampshire</name>
+		<gx:mid>/m/02hp70</gx:mid>
+		<gx:fid>0x89e293bc10e36e81:0x3da108494b0abc36</gx:fid>
+		<LookAt>
+			<longitude>-70.93702519999999</longitude>
+			<latitude>43.138948</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>745.9737991319283</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-70.93702519999999,43.138948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06F134FA6A15A98C26B8">
+		<name>University of California, Berkeley</name>
+		<gx:mid>/g/1ymwcxm0g</gx:mid>
+		<gx:fid>0x80857c26e0555555:0xb374f5b2740a5d6e</gx:fid>
+		<LookAt>
+			<longitude>-122.2620928</longitude>
+			<latitude>37.871489</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>812.9656115842073</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.2620928,37.871489,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06CF8A571515A98CEC42">
+		<name>San Diego Natural History Museum</name>
+		<gx:mid>/m/02pmw4j</gx:mid>
+		<gx:fid>0x80d95496575f4037:0xae3d154aeab6427b</gx:fid>
+		<LookAt>
+			<longitude>-117.147364</longitude>
+			<latitude>32.7323223</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>871.8503250879659</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.147364,32.7323223,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089D15D6CB15A98E1C1E">
+		<name>University of Colorado</name>
+		<gx:mid>/g/11ghg30jf3</gx:mid>
+		<gx:fid>0x876bedee2feca6cf:0xee87afebff125f76</gx:fid>
+		<LookAt>
+			<longitude>-105.2668379</longitude>
+			<latitude>40.0045124</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>786.601110154196</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-105.2668379,40.0045124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F75D4703115A98F012C">
+		<name>University of Michigan</name>
+		<gx:mid>/m/095kpc</gx:mid>
+		<gx:fid>0x883cae5dfa1d9001:0xd4ba330b07fd6988</gx:fid>
+		<LookAt>
+			<longitude>-83.72565829999999</longitude>
+			<latitude>42.281025</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>757.3084002532761</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-83.72565829999999,42.281025,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0401112C5415A98F87BB">
+		<name>University of Kansas</name>
+		<gx:mid>/g/1td4_clk</gx:mid>
+		<gx:fid>0x87bf6f35f924f66d:0xa19c5f6991a1aabc</gx:fid>
+		<LookAt>
+			<longitude>-95.24736639999999</longitude>
+			<latitude>38.9578169</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>799.6728785537525</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.24736639999998,38.9578169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF87873B015A99026B9">
+		<name>Florida State Collection of Arthropods</name>
+		<gx:mid>/g/11c0qgkplz</gx:mid>
+		<gx:fid>0x88e77e36565f90bd:0xd8e288845eb81d43</gx:fid>
+		<LookAt>
+			<longitude>-82.3715148</longitude>
+			<latitude>29.6346967</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>903.9412428945552</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050A8AD92715A987C972</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-82.3715148,29.6346967,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
