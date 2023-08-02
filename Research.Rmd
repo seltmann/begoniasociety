@@ -8,92 +8,46 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <img align="right" src="https://seltmann.github.io/begoniasociety/images/Rplot01.png" width="300">
-My field of research, known as Biodiversity Informatics, aims to advance knowledge in biology and biodiversity by facilitating the digital capture, computational interpretation, and electronic dissemination of biological information. I draw on rich sources of specimen-based information in natural history collections to further our understanding of biodiversity and conservation through research combining biological inquiry, large-scale biological collection digitization, and data science. I am also primarily interested in using these methods to study insects, particularly those in the order Hymenoptera (bees, wasps, and ants). Insects are numerous, biodiverse, critical to our ecosystems and declining.
+My principal research interests are to digitally capture biodiversity information using materials from natural history collections and to employ these data to analyze, model, and decode patterns of environmental, morphological, and community change. The patterns provide insights into the classification of organisms, the evolution of phenotype, and the ecological function of traits. Each specimen is an object that contains many associated pieces of information. This information includes the occurrence of the specimen in space, time, or other parameters, its internal and external anatomy, DNA, stable isotope and chemical signatures, associated publications, images, and the individuals who studied or collected the organisms. Natural history collections comprise libraries of millions of biological specimens, ranging from preserved pollinating bees to dinosaur remnants. These collections can shed light on environmental change and morphological evolution over long periods, illuminate how species are lost, and how biological knowledge has evolved. As a leader and key contributor to significant specimen digitization and data aggregation efforts, I have helped initiate, produce, and advance important regional and global datasets. My research efforts are also guided by the recognition that collections serve as invaluable hubs for research on specific taxa and are integral to our global cultural heritage.
+
+Much of my research addresses fundamental questions in Hymenoptera systematics and biodiversity data sharing. However, my research also addresses interactions and communities of organisms and thus includes investigations involving other insects and kingdoms, including plants, birds, and reptiles. Currently, we are investigating trait evolution through new computational tools, new methods for sharing biodiversity data, and new efforts for describing insect-plant interactions and distributions for conservation.
+<img align="left" src="https://seltmann.github.io/begoniasociety/research_files/figure-html/globi-1.png" width="400">
  
 ## Biocollections
 
-Central to my research are natural history collections - massive sets of biological specimens that are housed in museums, tissue collections, herbaria, botanical gardens, and zoos, and that have been compiled over several centuries. Together, they constitute our biodiversity libraries. These collections have broad cultural significance, and more importantly, constitute enormous primary resources that support fundamental research in the biological sciences. <img align="left" src="https://seltmann.github.io/begoniasociety/research_files/figure-html/globi-1.png" width="400">These libraries of millions of biological specimens, ranging from preserved pollinating bees to dinosaur remnants, shed light on the past, and illuminate ways that the climate has changed, that species are lost, and how biological knowledge has evolved. They also constitute voucher repositories for specimens used in research and identification of organisms of all varieties.
+Central to my research are natural history collections - massive sets of biological specimens that are housed in museums, tissue collections, herbaria, botanical gardens, and zoos, and that have been compiled over several centuries. Together, they constitute our biodiversity libraries. These collections have broad cultural significance, and more importantly, constitute enormous primary resources that support fundamental research in the biological sciences. These libraries of millions of biological specimens, ranging from preserved pollinating bees to dinosaur remnants, shed light on the past, and illuminate ways that the climate has changed, that species are lost, and how biological knowledge has evolved. They also constitute voucher repositories for specimens used in research and identification of organisms of all varieties.
 
-As informational resources, these collections hold tremendous value, but remain underused. There are presently large-scale initiatives to digitize the biological material contained within them, as evidenced by funding initiatives such as the National Science Foundation’s Advancing Digitization of Biological Collections (ADBC) program, the primary funding support for my current work. A major focus of my research is to combine disparate digitization efforts in order to facilitate information processing and biological inquiry. To this end, I examine processes through which we capture information in digital formats, how we publish and share biological information, preserve at risk information, and use this information in scientific activities. At its heart, this process involves the digitization of physical specimens and textual collection event data, how we manage these digital records, how we assess the quality of these data, and how we may augment them with salient metadata. My work is consequently aligned with a major thrust of research in biodiversity informatics that has sought to enable access to biodiversity data troves via computing systems, data science methods, and new technologies.
  
-## Entomology and Hyemenopterology
-Bees, wasps and ants are one of the most numerous and specious creatures on the planet. They come in an array of sizes and habits, and humans depend on them for pollination and biocontrol of pests. Many groups of wasps are rare and difficult to study, often eluding scientific study. Presently, the focal areas of my research center on rapidly diversifying cryptic species and diversity of species in coastal California.
+## Investigating Traits and Morphology via Biodiversity Data Science and Computer Vision
+
+A key research emphasis in my lab is to develop and apply new computational imaging and data science tools for fundamental investigations in morphology, anatomy, and phenotype. This research area is exemplified by a major NSF initiative I am leading, <i>Extending Anthophila research through image and trait digitization (Big-Bee)</i><sup>1</sup>. A cornerstone of this 13-institution effort is the high-resolution imaging of more than one million specimens, representing more than 5000 bee species, in 2D and 3D modalities. These data and novel computational tools we are developing in the project will enable quantitative analyses of morphological features and will furnish new automated tools that aid identification. Recent advancements in computer vision and machine learning are transforming many fields of science, including entomology<sup>2</sup>. These emerging computational methods are already yielding striking results, including impressive capacities for sorting organisms<sup>3</sup> and quantifying abundances.
+
+My research group is investigating multiple computer vision techniques (image segmentation, feature identification) and machine learning methods (data augmentation, transfer learning) for the quantification of bee traits, the analysis of variation between species or populations, and the development of new morphological characters for identification and systematic study. A simple but highly effective example from our current work involves the computational quantification of bee pilosity (Fig 1), a trait that may affect thermal tolerance and the ability of a species to adapt to changing climate conditions. Bee hairs have also evolved for carrying pollen, and clades differ markedly in pilosity patterns. However, hair patterns, like many morphological structures, are variable and difficult to quantify in a repeatable and scalable manner and thus exemplify the potential value that computational tools for trait analysis may contribute. 
+
+In addition to investigating new character systems, my research group is developing scalable, geographic-specific specimen classifiers using training data from images captured from natural history collections. The overarching vision of this effort is to develop methods for creating individualized models that can be used as “keys” that can be trained to encode expert domain knowledge of taxonomists or researchers.
+
+<img align="center" src="https://seltmann.github.io/begoniasociety/images/segmentation.jpg">
+
+## Advancing Biodiversity Data and Knowledge Sharing
+
+Access to biological information is dramatically reshaping the kinds of research questions we can address and raising questions about how we generate and manage biological data. Through my research, I examine processes through which we capture information for research in digital formats, use and reuse large datasets, publish and share biological data, preserve at-risk information, and use this information in scientific activities. My work is consequently aligned with major research initiatives in biodiversity that seek to enable researchers to access and exploit biodiversity data troves through global computing systems and new technologies. Presently, I am working with a global network of collaborators on the Extended Specimen Concept<sup>4</sup>, a now widely accepted concept that I co-authored for the future of data sharing. This initiative is working to promote and interconnect emerging multimodal specimen datasets, including 3D image models<sup>5</sup>, environmental data, and trait data (as in the Global Bee Interaction Database<sup>6</sup>). One example of my research activity in this overarching area is the publication “A semantically enriched taxonomic revision of <i>Gryonoides</i> Dodd, 1920 (Hymenoptera, Scelionidae), with a review of the hosts of Teleasinae.” (J. Hymenoptera Res., 2021). This work exploits data sharing of examined material and translation into PhenoScript, a standardized language for linking morphology with ontology to explicitly describe characters. 
+<img align="left" src="https://seltmann.github.io/begoniasociety/images/extended-specimen.jpg" width="300">
+
+Biological knowledge has expanded greatly, but the reusability of prior findings has been historically limited by the unstructured way in which primary contributions, such as species descriptions, have been documented and published. By structuring scientific language and modeling the knowledge it embodies, we can greatly enhance the utility of current and past research literature for deeper meta-analyses. I approach this topic as a problem involving the development of structured language in the form of domain-specific ontologies. When designed appropriately, such an ontology can embody trophic-level network assemblages, supporting the computational discovery of biological relations and providing ecological links to gene annotation efforts, and can even facilitate knowledge discovery from prior ecological literature. To realize this vision, I am developing an ontology for bee functional traits that may revolutionize how we describe and monitor bees and enable researchers to harvest this information in biodiversity informatics studies. This ontology will align with the already existing insect morphological ontologies and will also yield a novel repository.
+
+## Insect Distributions and Conservation
+
+A further research focus in my lab, building on my prior work, will be aimed at understanding and mitigating insect biodiversity loss. Understanding such declines requires characterizing the species distributions of insects and their host plants. My group investigates these questions by analyzing camera trap data and through biodiversity data-driven analyses of distributions. We complement these methods with basic fieldwork to enable us to evaluate hypotheses via ground-truth data. Presently, my collaborators and I are developing new techniques for analyzing co-occurrences of plants and bees from collection data, which make it possible to identify shifts or phenological mismatches. Our ongoing work includes taxonomic evaluations of bees on Santa Cruz Island, California, to produce a checklist for this scientifically valuable island ecosystem<sup>7</sup>. Species checklists are a key product of systematic research and also furnish valuable resources for informing predictions of multi-species occupancy models, ecological networks, and other community-level classifications. I am complementing these activities by developing new computer vision approaches for automating the identification and prediction of new species (Fig. 3). The methods we are developing for research can be applied to important conservation challenges, and our research engages state and federal agencies, including USFW and USGS. We have applied these methods in recent characterizations of the insects associated with the endangered California lupine plant<sup>8</sup> and in a genome skimming analysis of herbarium specimens aimed at characterizing populations of an estuarine seablite (Madroño Journal, Accepted, 2023).
+<img align="right" src="https://seltmann.github.io/begoniasociety/images/SCI.jpg" width="300">
+
+## References
+1. Katja C. Seltmann (2021). Extending Anthophila research through image and trait digitization (Big-Bee) proposal. UC Santa Barbara: Cheadle Center for Biodiversity and Ecological Restoration. Retrieved from https://escholarship.org/uc/item/2vm761mv 
+2. Høye, Toke T., Johanna Ärje, Kim Bjerge, Oskar LP Hansen, Alexandros Iosifidis, Florian Leese, Hjalte MR Mann, Kristian Meissner, Claus Melvad, and Jenni Raitoharju. "Deep learning and computer vision will transform entomology." Proceedings of the National Academy of Sciences 118, no. 2 (2021): e2002545117.
+3. Spiesman, Brian J., Claudio Gratton, Richard G. Hatfield, William H. Hsu, Sarina Jepsen, Brian McCornack, Krushi Patel, and Guanghui Wang. "Assessing the potential for deep learning and computer vision to identify bumble bee species from images." Scientific reports 11, no. 1 (2021): 1-10.
+4. James Lendemer, Barbara Thiers, Anna K Monfils, Jennifer Zaspel, Elizabeth R Ellwood, Andrew Bentley, Katherine LeVan, John Bates, David Jennings, Dori Contreras, Laura Lagomarsino, Paula Mabee, Linda S Ford, Robert Guralnick, Robert E Gropp, Marcy Revelez, Neil Cobb, Katja Seltmann, M Catherine 5. Aime, The Extended Specimen Network: A Strategy to Enhance US Biodiversity Collections, Promote Research and Education, BioScience, Volume 70, Issue 1, January 2020, Pages 23–30, https://doi.org/10.1093/biosci/biz140
+6. Katja C. Seltmann, Jorrit H. Poelen, UCSB Natural History Collections, & Big Bee Community. (2023). Halictus ligatus Halictidae UCSB-IZC00036803 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7510912
+7. Katja C. Seltmann. (2022). Global Bee Interaction Data (v2.02) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7315159
+8. Katja C. Seltmann, David Dewey, Lynn McLaren, & Charlie Thrift. (2022). Native and non-native bees (Anthophila) of Santa Cruz Island: An annotated checklist (0.03). Zenodo. https://doi.org/10.5281/zenodo.7216845
+9. C. I. Motta, J. C. Luong, K. C. Seltmann. Plant–arthropod interactions of an endangered California lupine. Ecology and Evolution. 2022 Mar;12(3):e8688.
 
 <center>
-
-```{r idigbio, message=TRUE, warning=FALSE, include=FALSE}
-
-# Katja Seltmann, 2019
-# M259 Visualizing Information
-
-#download data from iDigBio using r API
-#https://www.idigbio.org/portal
-#create simple graph with the data
-
-#load packages
-library(ridigbio)
-library(ggplot2)
-library(dplyr)
-library(tidyr)
-
-bombus <- idig_search_records(rq=list(genus="bombus"), limit=5000)
-
-#group by country and count the country
-bombus %>%
-  group_by(country)
-
-bombus <- add_count(bombus, country)
-```
-
-```{r plot, echo=FALSE, message=TRUE, warning=FALSE}
-#graph the data using ggplot
-theme_set(theme_classic())
-g <- ggplot(bombus, aes(country))
-g + geom_density(aes(fill=factor(log10(n))), alpha=0.8) + 
-  labs(title="bumble bee diversity", 
-       subtitle="",
-       caption="",
-       x="kinds of bumble bees",
-       fill="") +
-  theme(axis.text.x=element_blank(),
-        axis.ticks.x=element_blank()) +
-  theme(legend.position="none")
-```
-
-```{r globi, echo=FALSE, warning=FALSE, message=FALSE, fig.show="hide"}
-
-# Katja Seltmann, 2019
-# M259 Visualizing Information
-
-#download data from globi using r API
-#https://www.globalbioticinteractions.org
-#place data in SQLite database
-#create simple network with the data
-
-#install packages if you dont have them
-#install.packages("rglobi")
-
-
-#load packages
-library(rglobi)
-library(ggplot2)
-library("dplyr")
-library("tidyr")
-require(igraph)
-
-#get interactions of bumble bees
-bumblebeesInteractions <- get_interactions_by_taxa(sourcetaxon = "bombus")
-
-#create a new dataframe for a network graph (vertex, edges)
-bsk <- data.frame(bumblebeesInteractions$source_taxon_name,bumblebeesInteractions$target_taxon_name)
-
-#describe network
-bsk.network<-graph.data.frame(bsk, directed=F)
-
-#plot the graph
-par(mar=c(0,0,0,0))
-plot(bsk.network,vertex.size=5, vertex.label=NA)
-```
-
-
-</center>
