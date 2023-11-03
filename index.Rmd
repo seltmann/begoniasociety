@@ -12,7 +12,13 @@ output: html_document
 <img align="right" src="https://seltmann.github.io/begoniasociety/images/research-areas.png" width="300">
 I am Katja Seltmann, an entomological artist and scientist. I publish research about insects, biodiversity data science, and insect responses to environmental changes or conditions. I regularly create artworks under the name Irene Moon that bring the aesthetics of the entomology laboratory in front of alternative audiences in the form of absurd, factual presentations about insects, musical recordings, radio, and performances connecting science and fable. I am also the Katherine Esau Director of the [Cheadle Center for Biodiversity and Ecological Restoration](https://www.ccber.ucsb.edu), University of California, Santa Barbara. At the Cheadle Center, I direct three main programmatic areas — natural history collection research, education, and ecological restoration. My art and insect research combines data science, digitized natural history collections, and media arts.
 
-[CV](https://docs.google.com/document/d/1DpYPQqp3g7B-KNrT06vOE2V8MyOQ6djRMs1b8PgWpEY/edit?usp=sharing) - [Google Scholar](https://scholar.google.com/citations?user=gsh_xxoAAAAJ&hl=en) - [Instagram](https://www.instagram.com/irene._.moon/) - [Wikipedia](https://en.wikipedia.org/wiki/Irene_Moon) - [Discogs](https://www.discogs.com/artist/354767-Irene-Moon) - [UbuWeb](http://ubu.com/film/moon.html) - [GitHub](https://github.com/seltmann)
+[CV](https://docs.google.com/document/d/1DpYPQqp3g7B-KNrT06vOE2V8MyOQ6djRMs1b8PgWpEY/edit?usp=sharing) - [Google Scholar](https://scholar.google.com/citations?user=gsh_xxoAAAAJ&hl=en) - [Instagram](https://www.instagram.com/irene._.moon/) - [Wikipedia](https://en.wikipedia.org/wiki/Irene_Moon) - [Discogs](https://www.discogs.com/artist/354767-Irene-Moon) -
+[Free Music Archive](https://freemusicarchive.org/music/Irene_Moon) -
+[UbuWeb](http://ubu.com/film/moon.html) -
+[YouTube](https://www.youtube.com/@moonirene/videos) -
+[Vimeo](https://vimeo.com/user5450790) -
+[GitHub](https://github.com/seltmann)
+
 
 
 
