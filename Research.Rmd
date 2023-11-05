@@ -4,6 +4,9 @@ output: html_document
 ---
 <br />
 <br />
+<br />
+<br />
+
 ## Research Areas
 
 ```{r setup, include=FALSE}
