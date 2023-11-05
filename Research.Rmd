@@ -3,7 +3,7 @@ title:
 output: html_document
 ---
 <br />
-
+<br />
 ## Research Areas
 
 ```{r setup, include=FALSE}

@@ -5,7 +5,7 @@ output: html_document
 ---
 
 <br />
-
+<br />
 ## Media Arts and Entomology
 
 <img align="right" src="https://seltmann.github.io/begoniasociety/images/research-areas.png" width="300">
