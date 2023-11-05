@@ -1,11 +1,11 @@
 
 ---
-title: Media Arts and Entomology
+title: 
 output: html_document
 ---
 
 <br />
-
+## Media Arts and Entomology
 <img align="right" src="https://seltmann.github.io/begoniasociety/images/research-areas.png" width="300">
 I am Katja Seltmann, an entomological artist and scientist. I publish research about insects, biodiversity data science, and insect responses to environmental changes or conditions. I regularly create artworks under the name Irene Moon that bring the aesthetics of the entomology laboratory in front of alternative audiences in the form of absurd, factual presentations about insects, musical recordings, radio, and performances connecting science and fable. I am also the Katherine Esau Director of the [Cheadle Center for Biodiversity and Ecological Restoration](https://www.ccber.ucsb.edu), University of California, Santa Barbara. At the Cheadle Center, I direct three main programmatic areas — natural history collection research, education, and ecological restoration. My art and insect research combines data science, digitized natural history collections, and media arts.
 

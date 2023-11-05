@@ -1,7 +1,9 @@
 ---
-title: "Research Areas"
+title: 
 output: html_document
 ---
+<br />
+## Research Areas
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
