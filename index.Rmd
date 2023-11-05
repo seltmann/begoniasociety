@@ -1,6 +1,6 @@
 
 ---
-title: 
+title: Media Arts and Entomology
 output: html_document
 ---
 
