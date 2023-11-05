@@ -5,6 +5,7 @@ output: html_document
 <br />
 
 ## Scientifically Speaking with Irene Moon
+
 <img align="right" src="https://seltmann.github.io/begoniasociety/images/IreneMoonWeb.jpg" width="300">
 
 Since 1997, Scientifically Speaking with Irene Moon has been presenting The Lectography: musical lectures about insects and other arthropods in an attempt to elevate Entomology (the study of insects) as a rock genre.  About 30 different lectures have been performed on over 500 occasions. This includes tours of Europe, Australia, and live radio broadcasts dealing with entomological topics on WFMU in New York and other radio stations.
