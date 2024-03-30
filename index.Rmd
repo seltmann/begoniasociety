@@ -11,7 +11,7 @@ output: html_document
 
 ## Media Arts and Entomology
 
-<img align="right" src="https://seltmann.github.io/begoniasociety/images/research-areas.png" width="300">
+<img align="right" src="https://seltmann.github.io/begoniasociety/images/research-areas.png" width="350">
 
 <br />
 
