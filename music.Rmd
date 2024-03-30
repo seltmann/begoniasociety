@@ -13,7 +13,7 @@ n <- recordings %>%
   group_by(year) %>%
   summarise(recording_summ = length(unique(title)))
           
-plot(n$year, n$year, pch = 21, xlab = '', ylab = '', , axes = FALSE, main = "Number of recordings by Irene Moon and the Begonia Society",sub = "by year", cex = n$recording_summ, col = "white", bg = "orange")
+plot(n$year, n$year, pch = 21, xlab = '', ylab = '', , axes = FALSE, main = "Number of Recordings",sub = "by year", cex = n$recording_summ, col = "white", bg = "orange")
 axis(1)
 ```
 
